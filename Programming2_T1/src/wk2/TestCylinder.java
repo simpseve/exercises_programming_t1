@@ -1,5 +1,7 @@
 package wk2;
 
+import wk2.Cylinder;
+
 public class TestCylinder {
     public static void main(String[] args) {
         Cylinder c1 = new Cylinder();

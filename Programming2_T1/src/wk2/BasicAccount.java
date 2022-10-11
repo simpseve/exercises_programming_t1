@@ -11,7 +11,9 @@ public class BasicAccount {
         }
 
         public void setAccountNumber(String accountNumber){
-
+                if (accountNumber ==null){
+                        throw new IllegalArgumentException("Account number is null");
+                }
                 this.accountNumber=accountNumber;
         }
         public void setBalance(float balance){

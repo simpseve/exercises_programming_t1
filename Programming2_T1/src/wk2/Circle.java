@@ -19,7 +19,7 @@ public class Circle {
         this.radius = radius;
     }
 
-    public Double getRadius(){
+    public double getRadius(){
         return radius;
     }
 

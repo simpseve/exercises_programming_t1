@@ -1,5 +1,7 @@
 package wk2;
 
+import wk2.Circle;
+
 public class Cylinder extends Circle {
 
     private double height = 2;

@@ -1,6 +1,6 @@
 package wk2;
 
-import java.util.Scanner;
+import wk2.Circle;
 
 public class TestCircle {
     public static void main(String[] args) {
